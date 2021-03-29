@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm James (he/him). My `$dayjob` is as a Solution Architect at Pal Alto Networks. Always happy to talk shop - you can find me on [Twitter](https://twitter.com/jimwoolfenden)
+I'm James (he/him). My `$dayjob` is as a Solution Architect at Palo Alto Networks/Bridgecrew. I'm on online... [Twitter](https://twitter.com/jimwoolfenden)
 
 [![James's github stats](https://github-readme-stats.vercel.app/api?username=jameswoolfenden&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jameswoolfenden)](https://github.com/jameswoolfenden/github-readme-stats)
+[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jameswoolfenden&theme=cobalt)](https://github.com/jameswoolfenden/github-readme-stats)
 <!--
 **kmcquade/kmcquade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
