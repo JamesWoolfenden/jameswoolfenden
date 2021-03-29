@@ -2,9 +2,9 @@
 
 I'm James (he/him). My `$dayjob` is as a Solution Architect at Palo Alto Networks/Bridgecrew. I'm on online... [Twitter](https://twitter.com/jimwoolfenden)
 
-[![James's github stats](https://github-readme-stats.vercel.app/api?username=jameswoolfenden&theme=cobalt)](https://registry.terraform.io/namespaces/JamesWoolfenden)
+[![James's github stats](https://github-readme-stats.vercel.app/api?username=jameswoolfenden&theme=prussian)](https://registry.terraform.io/namespaces/JamesWoolfenden)
 
-[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jameswoolfenden&theme=cobalt)](https://registry.terraform.io/namespaces/JamesWoolfenden)
+[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jameswoolfenden&theme=prussian)](https://registry.terraform.io/namespaces/JamesWoolfenden)
 
 - 🔭 I’m currently working on test tools for DevOps
 - 🌱 I’m currently learning everything
