@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Kinnaird (he/him). My `$dayjob` is as a Lead Security Engineer at Salesforce. Always happy to talk shop - you can find me on [Twitter](https://twitter.com/kmcquade3). My personal website is [https://kmcquade.com/](https://kmcquade.com/).
+I'm James (he/him). My `$dayjob` is as a Solution Architect at Pal Alto Networks. Always happy to talk shop - you can find me on [Twitter](https://twitter.com/jimwoolfenden). My personal website is [https://kmcquade.com/](https://kmcquade.com/).
 
-[![Kinnaird's github stats](https://github-readme-stats.vercel.app/api?username=kmcquade&theme=cobalt)](https://github.com/kmcquade/github-readme-stats)
+[![James's github stats](https://github-readme-stats.vercel.app/api?username=jameswoolfenden&theme=cobalt)](https://github.com/kmcquade/github-readme-stats)
 
 <!--
 **kmcquade/kmcquade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
