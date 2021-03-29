@@ -2,21 +2,15 @@
 
 I'm James (he/him). My `$dayjob` is as a Solution Architect at Palo Alto Networks/Bridgecrew. I'm on online... [Twitter](https://twitter.com/jimwoolfenden)
 
-[![James's github stats](https://github-readme-stats.vercel.app/api?username=jameswoolfenden&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![James's github stats](https://github-readme-stats.vercel.app/api?username=jameswoolfenden&theme=cobalt)](https://registry.terraform.io/namespaces/JamesWoolfenden)
 
+[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jameswoolfenden&theme=cobalt)](https://registry.terraform.io/namespaces/JamesWoolfenden)
 
-[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jameswoolfenden&theme=cobalt)](https://github.com/jameswoolfenden/github-readme-stats)
+- 🔭 I’m currently working on test tools for DevOps
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate on tools and modules
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about Terraform, Packer, making modules, Checkov.
+- 📫 How to reach me: James.Woolfenden@gmail.com
 <!--
-**kmcquade/kmcquade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**jameswoolfenden/jameswoolfenden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
