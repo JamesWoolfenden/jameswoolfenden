@@ -6,7 +6,7 @@ I'm James (he/him). My `$dayjob` is as a Solution Architect at Palo Alto Network
 
 [![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jameswoolfenden&theme=prussian)](https://registry.terraform.io/namespaces/JamesWoolfenden)
 
-- 🔭 I’m currently working on test tools for DevOps
+- 🔭 I’m currently working on test tools for DevSecOps
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on tools and modules
 - 🤔 I’m looking for help with everything
