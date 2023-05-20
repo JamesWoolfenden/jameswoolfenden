@@ -4,7 +4,7 @@ I'm James (he/him). My `$dayjob` is as a Solution Architect at Palo Alto Network
 
 [![James's github stats](https://github-readme-stats.vercel.app/api?username=jameswoolfenden&theme=prussian)](https://registry.terraform.io/namespaces/JamesWoolfenden)
 
-[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jameswoolfenden&theme=prussian)](https://registry.terraform.io/namespaces/JamesWoolfenden)
+[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jameswoolfenden&theme=prussian)](https://github.com/JamesWoolfenden/github-readme-stats)
 
 - 🔭 I’m currently working on test tools for DevSecOps
 - 🌱 I’m currently learning everything
