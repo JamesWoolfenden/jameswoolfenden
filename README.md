@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm James (he/him). My `$dayjob` is as a Solution Architect at Palo Alto Networks/Bridgecrew. I'm on online... [Twitter](https://twitter.com/jimwoolfenden)
+I'm James (he/him). My `$dayjob` is as a Solution Architect at Palo Alto Networks. I'm online... [Twitter](https://twitter.com/jimwoolfenden)
 
 - 🔭 I’m currently working on test tools for DevSecOps
 - 🌱 I’m currently learning everything
