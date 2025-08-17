@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm James. My `$dayjob` is as a Solution Architect at Palo Alto Networks. I'm online... [bsky]([https://twitter.com/jimwoolfenden](https://bsky.app/profile/jimwolf.bsky.social)
+I'm James. My `$dayjob` is as a Solution Architect at Palo Alto Networks. I'm online... [bsky](https://bsky.app/profile/jimwolf.bsky.social)
 
 - 🔭 I’m currently working on test tools for DevSecOps
 - 🌱 I’m currently learning everything
